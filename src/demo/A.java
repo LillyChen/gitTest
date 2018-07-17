@@ -5,6 +5,7 @@ package demo;
 	 public static void main(String[] args) {
 		System.out.println("AAAAA");
 		System.out.println("AAAAAAAAAA");
+		System.out.println("BBBBB");
 	}
 	 A(){
 		 
